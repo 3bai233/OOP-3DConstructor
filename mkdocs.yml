@@ -1,0 +1,7 @@
+site_name: OOP 3D Consturctor
+nav:
+  - Home: index.md
+  - About: about.md
+theme:
+  name: material
+  
